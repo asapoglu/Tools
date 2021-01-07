@@ -3,8 +3,8 @@
     "short_name": "Tools",
     "start_url": "index.html",
     "display": "standalone",
-    "background_color": "orange",
-    "theme-color": "orange",
+    "background_color": "#dddddd",
+    "theme-color": "#dddddd",
     "icons": [
       {
         "src": "image/im.png",
